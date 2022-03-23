@@ -1,2 +1,2 @@
 readme
-edit agin by git gui
+edit by GUI
