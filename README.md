@@ -1,2 +1,2 @@
 readme
-edit by GUI
+edit by GUIl.
